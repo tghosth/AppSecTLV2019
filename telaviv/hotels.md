@@ -8,10 +8,7 @@ imageposition: center top
 <section markdown="1">
 **The Conference is being held during a high season and therefore we
 recommend that you book your rooms as early as possible** 
-<p>Rooms will be confirmed on a first come, first served basis.</p>
-
-</section>
-<section markdown="1">
+Rooms will be confirmed on a first come, first served basis.
 
 Target Conferences is the official travel agent for the Conference and are offering special reduced rates for accommodation at the conference venue and neighboring hotels. Please book your hotel using the same online form as registering for the conference.
 
