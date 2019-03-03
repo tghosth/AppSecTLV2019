@@ -5,11 +5,12 @@ image: attributed/intercontinental_swimming_pool.jpg
 imageposition: center top
 ---
 
-<section>
+<section markdown="1">
+
 **The Conference is being held during a high season and therefore we
 recommend that you book your rooms as early as possible** 
 
-Rooms will be confirmed on a first come, first served basis.
+<p>Rooms will be confirmed on a first come, first served basis.</p>
 
 </section>
 <section markdown="1">
