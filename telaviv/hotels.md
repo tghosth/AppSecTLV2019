@@ -25,9 +25,9 @@ Next to these hotels, there are a lot of [AirBnB's](https://www.airbnb.com) in t
 ### Intercontinental David Tel Aviv Hotel (Conference Venue)
 Kaufmann St 12, Tel Aviv-Yafo, 61501
 
-| Room Type | Single | Double |
-|-----------|:------:|:------:|
-| Classic Room | $370 | $395 |
+ Room Type | Single | Double
+---|---|---
+ Classic Room | $370 | $395
 
 *Rates are per room, per night, including breakfast.*
 
