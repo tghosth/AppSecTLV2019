@@ -14,28 +14,25 @@ Rooms will be confirmed on a first come, first served basis.
 </section>
 <section markdown="1">
 
-Accommodation Target Conferences is the official travel agent for the Owasp Appsec EU Conference, and is offering special reduced rates for accommodation at the conference venue and neighboring hotels. Please see hotels to view the hotel options and to reserve your room.
+Target Conferences is the official travel agent for the Conference and are offering special reduced rates for accommodation at the conference venue and neighboring hotels. Please book your hotel using the same online form as registering for the conference.
 
-[CLICK HERE](https://knasim.herokuapp.com/owasp2018/users/new) TO BOOK YOUR ACCOMMODATION
+[CLICK HERE](https://knasim.herokuapp.com/owasp2019/register) TO BOOK YOUR ACCOMMODATION
 
 **The travel agent is not mandatory, and of course, you're free to directly book your own hotel.**
 
 Next to these hotels, there are a lot of [AirBnB's](https://www.airbnb.com) in the area.
 
-
-
 ### Intercontinental David Tel Aviv Hotel (Conference Venue)
+Kaufmann St 12, Tel Aviv-Yafo, 61501
 
 | Room Type | Single | Double |
 |-----------|:------:|:------:|
-| Classic Room | $340 | $360 |
-| Executive Room<sup>1</sup> | $400 | $400 |
-| Club<sup>2</sup> | $480 | $480 | 
-
-*<sup>1</sup>include access to the Executive Lounge*  
-*<sup>2</sup>include access to the Club Lounge*
+| Classic Room | $370 | $395 |
 
 *Rates are per room, per night, including breakfast.*
+
+![alt text](../assets/images/hotels/Intercontinental_David_Tel_Aviv_1.jpg "Intercontinental David Tel Aviv Hotel")
+![alt text](../assets/images/hotels/Intercontinental_David_Tel_Aviv_2.jpg "Intercontinental David Tel Aviv Hotel")
 
 **Official check-in and check-out times:**  
 Check-in: 14:00  
@@ -43,140 +40,60 @@ Check-out: 12:00
 
 **Early check-in:** if needed before 10:00, you will be charged a one full night stay. After 10:00 until 14:00, you will be charged at 50% of a one full night stay (based on availability only).
 
-**Late check-out:** from 12:00 until 16:00, you will be charged 50% of a one full night stay. After 16:00, you will be charged a one full night stay. 
-
-</section>
-<section markdown="1">
-
-### Royal Beach Tel Aviv
-
-*A 7 minute walk from the Conference venue, Intercontinental David Tel Aviv Hotel*
-
-| Room Type | Single | Double |
-|-----------|:------:|:------:|
-| Standard Room | $310 | $330 |
-
-*Rates are per room, per night, including breakfast.*
-
-**Official check-in and check-out times:**  
-Check-in: 15:00  
-Check-out: 12:00
-
-</section>
-<section markdown="1">
-
-### Prima City Hotel Tel Aviv
-
-*A 25 minute walk (10 minute drive) from the Conference venue, Intercontinental David Tel Aviv Hotel*
-
-| Room Type | Single | Double |
-|-----------|:------:|:------:|
-| Superior Room | $185 | $190 |
-
-*Rates are per room, per night, including breakfast.*
-
-**Official check-in and check-out times:**  
-Check-in: 14:00  
-Check-out: 11:00
-
-</section>
-<section markdown="1">
-
-### Prima Tel Aviv Hotel
-
-*A 22 minute walk (8 minute drive) from the Conference venue, Intercontinental David Tel Aviv Hotel*
-
-| Room Type | Single | Double |
-|-----------|:------:|:------:|
-| Superior Room | $185 | $190 |
-
-*Rates are per room, per night, including breakfast.*
-
-**Official check-in and check-out times:**  
-Check-in: 14:00  
-Check-out: 11:00
-
-</section>
-<section markdown="1">
-
-### Leonardo Art Tel Aviv Hotel
-
-*A 40 minute walk (10 minute drive) from the Conference venue, Intercontinental David Tel Aviv Hotel*
-
-| Room Type | Single | Double |
-|-----------|:------:|:------:|
-| Standard Room | $200 | $220 |
-
-*Rates are per room, per night, including breakfast.*
-
-**Official check-in and check-out times:**  
-Check-in: 15:00  
-Check-out: 11:00
-
-</section>
-<section markdown="1">
-
-### Mercure Tel Aviv City Center
-
-*A 16 minute walk (6 minute drive) from the Conference venue, Intercontinental David Tel Aviv Hotel*
-
-| Room Type | Single | Double |
-|-----------|:------:|:------:|
-| Standard Room | $165 | $185 |
-
-*Rates are per room, per night, including breakfast.*
-
-**Official check-in and check-out times:**  
-Check-in: 14:00  
-Check-out: 12:00
+**Late check-out:** from 12:00 until 16:00, you will be charged 50% of a one full night stay. After 16:00, you will be charged a one full night stay.
 
 </section>
 <section markdown="1">
 
 ### Dan Panorama Tel Aviv Hotel
-
+Kaufmann St 10, Tel Aviv-Yafo
 *Right next door to the Conference venue, Intercontinental David Tel Aviv Hotel*
 
 | Room Type | Single | Double |
 |-----------|:------:|:------:|
-| Deluxe Room | $270 | $280 |
-| Deluxe Plus Room | $295 | $305 |
+| Standard Room | $330 | $340 |
 
 *Rates are per room, per night, including breakfast.*
+
+![alt text](../assets/images/hotels/Dan_Panorama_TLV_1.jpg "Dan Panorama Tel Aviv Hotel")
 
 **Official check-in and check-out times:**  
 Check-in: 15:00  
-Check-out: 11:00
-
-</section>
-<section markdown="1">
-
-### Artplus Hotel Tel Aviv
-
-*A 19 minute walk (6 minute drive) from the Conference Venue, Intercontinental David Tel Aviv Hotel*
-
-| Room Type | Single | Double |
-|-----------|:------:|:------:|
-| Standard Room | $175 | $190 | 
-
-*Rates are per room, per night, including breakfast.*
-
-**Official check-in and check-out times:**  
-Check-in: 14:00  
 Check-out: 12:00
 
 </section>
 <section markdown="1">
 
-### Market House Hotel, Tel Aviv
-
-* A 19 minute walk (6 minute drive) from the Conference Venue, Intercontinental David Tel Aviv Hotel*
+### Renaissance Hotel
+HaYarkon St 121, Tel Aviv-Yafo, 63453
+*27 minutes walk from the conference hotel or a short taxi ride*
 
 | Room Type | Single | Double |
 |-----------|:------:|:------:|
-| Standard Room | $240 | $260 |
+| Standard Room | $310 | $325 |
 
 *Rates are per room, per night, including breakfast.*
+
+![alt text](../assets/images/hotels/Renaissance_Hotel_1.jpg "Renaissance Hotel")
+
+**Official check-in and check-out times:**  
+Check-in: 15:00  
+Check-out: 12:00
+
+</section>
+<section markdown="1">
+
+### 65 Hotel
+Rothschild Blvd 65, Tel Aviv-Yafo
+*18 minutes walk from the conference hotel*
+
+| Room Type | Single | Double |
+|-----------|:------:|:------:|
+| Standard Room | $280 | $290 |
+
+*Rates are per room, per night, including breakfast.*
+
+![alt text](../assets/images/hotels/65_Hotel_1.jpg "65 Hotel")
 
 **Official check-in and check-out times:**  
 Check-in: 14:30  
@@ -185,55 +102,40 @@ Check-out: 12:00
 </section>
 <section markdown="1">
 
-### Cinema Hotel, Tel Aviv
-
-*A 26 minute walk (10 minute drive) from the Conference Venue, Intercontinental David Tel Aviv Hotel*
-
-| Room Type | Single | Double |
-|-----------|:------:|:------:|
-| Standard Room | $175 | $190 |
-
-*Rates are per room, per night, including breakfast.*
-
-**Official check-in and check-out times:**  
-Check-in: 14:00  
-Check-out: 12:00
-
-</section>
-<section markdown="1">
-
-### Center Chic Hotel, Tel Aviv
-
-*A 26 minute walk (10 minute drive) from the Conference Venue, Intercontinental David Tel Aviv Hotel*
+### Rothschild 22
+Rothschild Blvd 22, Tel Aviv-Yafo, 6688218
+*12 minutes walk from the conference hotel*
 
 | Room Type | Single | Double |
 |-----------|:------:|:------:|
-| Standard Room | $175 | $190 |
+| Standard Room | $290 | $320 |
 
 *Rates are per room, per night, including breakfast.*
 
-**Official check-in and check-out times:**  
-Check-in: 14:00  
-Check-out: 12:00
-
-</section>
-<section markdown="1">
-
-### Hotel Metropolitan
-
-*A 16 minute walk (6 minute drive) from the Conference Venue, Intercontinental David Tel Aviv Hotel*
-
-| Room Type | Single | Double |
-|-----------|:------:|:------:|
-| Superior Room | $185 | $200 |
-
-*Rates are per room, per night, including breakfast.*
+![alt text](../assets/images/hotels/Rothschild_22_1.jpg "Rothschild 22")
 
 **Official check-in and check-out times:**  
 Check-in: 15:00  
-Check-out: 11:00
+Check-out: 12:00
 
+</section>
+<section markdown="1">
 
+### Orchid Tel Aviv
+HaYarkon St 79, Tel Aviv-Yafo
+*18 minutes walk from the conference hotel*
+
+| Room Type | Single | Double |
+|-----------|:------:|:------:|
+| Standard Room | $290 | $300 |
+
+*Rates are per room, per night, including breakfast.*
+
+![alt text](../assets/images/hotels/Orchid_Tel_Aviv_1.jpg "Orchid Tel Aviv")
+
+**Official check-in and check-out times:**  
+Check-in: 15:00  
+Check-out: 12:00
 
 </section>
 <section class="inverse" markdown="1">
@@ -242,7 +144,7 @@ Check-out: 11:00
 For any questions concerning accommodations and tours, please feel free to contact:  
 Target Conferences Ltd.  
 Phone:  +972 3 5175150  
-Email address: owasp2018@target-conferences.com	
+Email address: owasp.reg@target-conferences.com
 
 ## Payment
 
