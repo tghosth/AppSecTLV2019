@@ -25,9 +25,9 @@ Next to these hotels, there are a lot of [AirBnB's](https://www.airbnb.com) in t
 ### Intercontinental David Tel Aviv Hotel (Conference Venue)
 Kaufmann St 12, Tel Aviv-Yafo, 61501
 
- Room Type | Single | Double
----|---|---
- Classic Room | $370 | $395
+|   Room Type   | Single | Double |
+|---------------|:------:|:------:|
+| Classic Room  |  $370  |  $395  |
 
 *Rates are per room, per night, including breakfast.*
 
@@ -44,14 +44,13 @@ Check-out: 12:00
 
 </section>
 <section markdown="1">
-
 ### Dan Panorama Tel Aviv Hotel
 Kaufmann St 10, Tel Aviv-Yafo
 *Right next door to the Conference venue, Intercontinental David Tel Aviv Hotel*
 
-| Room Type | Single | Double |
-|-----------|:------:|:------:|
-| Standard Room | $330 | $340 |
+|   Room Type   | Single | Double |
+|---------------|:------:|:------:|
+| Standard Room |  $330  |  $340  |
 
 *Rates are per room, per night, including breakfast.*
 
@@ -63,14 +62,13 @@ Check-out: 12:00
 
 </section>
 <section markdown="1">
-
 ### Renaissance Hotel
 HaYarkon St 121, Tel Aviv-Yafo, 63453
 *27 minutes walk from the conference hotel or a short taxi ride*
 
-| Room Type | Single | Double |
-|-----------|:------:|:------:|
-| Standard Room | $310 | $325 |
+|   Room Type   | Single | Double |
+|---------------|:------:|:------:|
+| Standard Room |  $310  |  $325  |
 
 *Rates are per room, per night, including breakfast.*
 
@@ -82,14 +80,13 @@ Check-out: 12:00
 
 </section>
 <section markdown="1">
-
 ### 65 Hotel
 Rothschild Blvd 65, Tel Aviv-Yafo
 *18 minutes walk from the conference hotel*
 
-| Room Type | Single | Double |
-|-----------|:------:|:------:|
-| Standard Room | $280 | $290 |
+|   Room Type   | Single | Double |
+|---------------|:------:|:------:|
+| Standard Room |  $280  |  $290  |
 
 *Rates are per room, per night, including breakfast.*
 
@@ -101,14 +98,13 @@ Check-out: 12:00
 
 </section>
 <section markdown="1">
-
 ### Rothschild 22
 Rothschild Blvd 22, Tel Aviv-Yafo, 6688218
 *12 minutes walk from the conference hotel*
 
-| Room Type | Single | Double |
-|-----------|:------:|:------:|
-| Standard Room | $290 | $320 |
+|   Room Type   | Single | Double |
+|---------------|:------:|:------:|
+| Standard Room |  $290  |  $320  |
 
 *Rates are per room, per night, including breakfast.*
 
@@ -120,14 +116,13 @@ Check-out: 12:00
 
 </section>
 <section markdown="1">
-
 ### Orchid Tel Aviv
 HaYarkon St 79, Tel Aviv-Yafo
 *18 minutes walk from the conference hotel*
 
-| Room Type | Single | Double |
-|-----------|:------:|:------:|
-| Standard Room | $290 | $300 |
+|   Room Type   | Single | Double |
+|---------------|:------:|:------:|
+| Standard Room |  $290  |  $300  |
 
 *Rates are per room, per night, including breakfast.*
 
@@ -139,7 +134,6 @@ Check-out: 12:00
 
 </section>
 <section class="inverse" markdown="1">
-
 ## Contact
 For any questions concerning accommodations and tours, please feel free to contact:  
 Target Conferences Ltd.  
