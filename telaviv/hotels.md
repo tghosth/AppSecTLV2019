@@ -149,7 +149,6 @@ Kindly refer to the on-line registration form.
 
 ## Important Notes
 * Personal travel, luggage and health insurance is recommended.
-* Please note that the organizers cannot be responsible for participants lacking
-appropriate insurance coverage in case of need.
+* Please note that the organizers cannot be responsible for participants lacking appropriate insurance coverage in case of need.
 
 </section>
