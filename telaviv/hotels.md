@@ -137,43 +137,19 @@ Phone:  +972 3 5175150
 Email address: owasp.reg@target-conferences.com
 
 ## Payment
+In order to book your accommodation, and in order to benefit from the special rates, please complete the on-line accommodation and tours form.
+Full payment is required at time of booking.
 
-In order to book your accommodation, and in order to benefit from the special
-rates, please complete the on-line accommodation form and tours form. A
-deposit payment equal to one night's stay is required at time of booking. Full
-payment for tours is also required at time of booking. The balance due is payable
-upon your arrival at the Hospitality Desk with a 3% surcharge. If full payment is
-made at the time of booking (or no later than April 15, 2018) there will be no
-surcharge.
- 
-Payment for accommodation may be made by bank transfer or credit card (Visa,
-Mastercard, American Express, Diners). Kindly refer to the on-line
-accommodation form.
+Payment for accommodation may be made by bank transfer or credit card (Visa, Mastercard, American Express, Diners).
+Kindly refer to the on-line registration form.
 
-### Bank Transfers should be made to the following account:
-
-Account Name: Target Conferences Ltd.  
-Bank Leumi  
-Gordon Branch (Branch Number 804)  
-87 Ben Yehuda Street, Tel Aviv, Israel  
-Account Number: 379000/70  
-Swift Code: LUMIILIT  
-IBAN: IL18 0108 0400 0003 7900 070  
-​
-* Please ensure that the name/s of the participants and conference name
-(OWASP) are clearly stated on the bank transfer. Bank transfer charges are the
-responsibility of the payer and should be paid at source in addition to the
-registration/accommodation fees.
-​
+## Cancellation of accommodation
+* Up to 45 days prior to arrival - full refund less handling fee of US$70 per room
+* Less than 45 days prior to arrival - no refund
 
 ## Important Notes
 * Personal travel, luggage and health insurance is recommended.
 * Please note that the organizers cannot be responsible for participants lacking
 appropriate insurance coverage in case of need.
-
-## Cancellation of accommodation
-
-* Up to 45 days prior to arrival - full refund less handling fee of US$70 per room
-* Less than 45 days prior to arrival - no refund
 
 </section>
