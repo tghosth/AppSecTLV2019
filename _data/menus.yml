@@ -15,9 +15,9 @@
   - title: Travel
     url  : telaviv/travel
   - title: Hotels
-    url  : telaviv/tours
-  - title: Tours
     url  : telaviv/hotels
+  - title: Tours
+    url  : telaviv/tours
 - title: About
   items:
   - title: Code of Conduct
