@@ -29,6 +29,7 @@ Expected return to the David Intercontinental Hotel about 18:30.
 
 ![alt text](../assets/images/tours/Tour_A_MASADA_1.jpg "MASADA AND THE DEAD SEA")
 ![alt text](../assets/images/tours/Tour_A_MASADA_2.jpg "MASADA AND THE DEAD SEA")
+<sub><sup>Photo credit: www.goisrael.com, by Itamar Grinberg</sub></sup>
 
 </section>
 <section markdown="1">
@@ -47,7 +48,9 @@ Expected return to David Intercontinental Hotel by 17:00.
 **Rate per person: US$90**
 
 ![alt text](../assets/images/tours/Tour_B_JERUSALEM_1.jpg "JERUSALEM - THE OLD & THE NEW")
+<sub><sup>Photo credit: www.goisrael.com, by Noam Chen</sub></sup>
 ![alt text](../assets/images/tours/Tour_B_JERUSALEM_2.jpg "JERUSALEM - THE OLD & THE NEW")
+<sub><sup>Photo credit: www.goisrael.com, by Noam Chen</sub></sup>
 
 </section>
 <section markdown="1">
@@ -65,7 +68,9 @@ Drive along the Kineret lake to visit Capernaum and view the ruins of the ancien
 **Rate per person: US$90**
 
 ![alt text](../assets/images/tours/Tour_C_NAZARETH_1.jpg "NAZARETH, TIBERIAS & SEA OF GALILEE")
+<sub><sup>Photo credit: www.goisrael.com, by Dafna Tal</sub></sup>
 ![alt text](../assets/images/tours/Tour_C_NAZARETH_2.jpg "NAZARETH, TIBERIAS & SEA OF GALILEE")
+<sub><sup>Photo credit: www.goisrael.com</sub></sup>
 
 </section>
 <section markdown="1">
@@ -73,14 +78,14 @@ Drive along the Kineret lake to visit Capernaum and view the ruins of the ancien
 Above rates (for Tour A, B and C) are based on a minimum of 15 participants.
 Should there be less than 15 participants per tour, alternative arrangements will be offered whereby participants will be able to join guaranteed group tours.
 
-**Rate for tours (A, B, C) includes:**
+**Rate for tours  A, B and C includes:**
 
 *	Travel by air-conditioned coach with the services of a government licensed tour guide
 *	Entrance fees to sites, as per itinerary
 *	Pick-up and drop-offs from the David Intercontinental Hotel
 
 
-**Rate for tours (A, B, C) not include:**
+**Rate for tours  A, B and C does not include:**
 
 * Lunch en route
 * Tips to guide &amp; driver
@@ -98,7 +103,7 @@ Should there be less than 15 participants per tour, alternative arrangements wil
 
 Meet at Domestic Airport for early morning flight to Eilat.
 Meet with the local Representative who will take you to the Jordanian border crossing and assist with border formalities.
-Meet your with your local Guide, and drive to Petra, the astonishing rose-red city built by the Nabateans.
+Meet with your local Guide, and drive to Petra, the astonishing rose-red city built by the Nabateans.
 Petra was renowned for it's massive architecture, pools, dams and water channels.
 Walk into the narrow canyon that leads to the red rock. Visit the treasury, royal tombs, the court, roman theater, Qasser El-Bint (Palace of Pharaoh's daughter).
 After the visit, stop for lunch. Drive though Aqaba for a short panoramic tour before back to the Arava border crossing.
@@ -109,7 +114,7 @@ Return to Eilat for your evening flight back to Tel Aviv.
 ![alt text](../assets/images/tours/Tour_D_PETRA_1.jpg "PETRA, JORDAN")
 ![alt text](../assets/images/tours/Tour_D_PETRA_2.jpg "PETRA, JORDAN")
 
-**Rate for TOUR D includes:**
+**Rate for tour D includes:**
 
 * Round trip flights from Tel Aviv to Eilat to Tel Aviv
 *	Lunch in Petra
@@ -117,11 +122,11 @@ Return to Eilat for your evening flight back to Tel Aviv.
 *	Entrance fees to sites, as per itinerary
 
 
-**Rate for Tour D not include:**
+**Rate for tour D does not include:**
 
 * Tips to guide &amp; driver
 * Visa and border fees (US$ 125 per person to be paid in cash to be paid at the Jordan border crossing)
-* Transfer from Tel Aviv Hotel to domestic airport and back to hotel
+* Transfers from Tel Aviv Hotel to domestic airport and back to hotel
 
 
 **Note:** Passports are required

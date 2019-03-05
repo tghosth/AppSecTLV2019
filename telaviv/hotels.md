@@ -144,8 +144,9 @@ Payment for accommodation may be made by bank transfer or credit card (Visa, Mas
 Kindly refer to the on-line registration form.
 
 ## Cancellation of accommodation
-* Up to 45 days prior to arrival - full refund less handling fee of US$70 per room
-* Less than 45 days prior to arrival - no refund
+* Up to 45 days prior to arrival - full refund less handling fee of US$70 per room
+* From 45 to 21 days prior to arrival - full refund less cost of one night stay
+* Less than 21 days prior to arrival - no refund due
 
 ## Important Notes
 * Personal travel, luggage and health insurance is recommended.
