@@ -28,8 +28,7 @@ Expected return to the David Intercontinental Hotel about 18:30.
 **Rate per person: US$115**
 
 ![alt text](../assets/images/tours/Tour_A_MASADA_1.jpg "MASADA AND THE DEAD SEA")
-![alt text](../assets/images/tours/Tour_A_MASADA_2.jpg "MASADA AND THE DEAD SEA")
-<sub><sup>Photo credit: www.goisrael.com, by Itamar Grinberg</sub></sup>
+![alt text](../assets/images/tours/Tour_A_MASADA_2.jpg "Photo credit: www.goisrael.com, by Itamar Grinberg")
 
 </section>
 <section markdown="1">
@@ -47,10 +46,8 @@ Expected return to David Intercontinental Hotel by 17:00.
 
 **Rate per person: US$90**
 
-![alt text](../assets/images/tours/Tour_B_JERUSALEM_1.jpg "JERUSALEM - THE OLD & THE NEW")
-<sub><sup>Photo credit: www.goisrael.com, by Noam Chen</sub></sup>
-![alt text](../assets/images/tours/Tour_B_JERUSALEM_2.jpg "JERUSALEM - THE OLD & THE NEW")
-<sub><sup>Photo credit: www.goisrael.com, by Noam Chen</sub></sup>
+![alt text](../assets/images/tours/Tour_B_JERUSALEM_1.jpg "Photo credit: www.goisrael.com, by Noam Chen")
+![alt text](../assets/images/tours/Tour_B_JERUSALEM_2.jpg "Photo credit: www.goisrael.com, by Noam Chen")
 
 </section>
 <section markdown="1">
@@ -67,10 +64,8 @@ Drive along the Kineret lake to visit Capernaum and view the ruins of the ancien
 
 **Rate per person: US$90**
 
-![alt text](../assets/images/tours/Tour_C_NAZARETH_1.jpg "NAZARETH, TIBERIAS & SEA OF GALILEE")
-<sub><sup>Photo credit: www.goisrael.com, by Dafna Tal</sub></sup>
-![alt text](../assets/images/tours/Tour_C_NAZARETH_2.jpg "NAZARETH, TIBERIAS & SEA OF GALILEE")
-<sub><sup>Photo credit: www.goisrael.com</sub></sup>
+![alt text](../assets/images/tours/Tour_C_NAZARETH_1.jpg "Photo credit: www.goisrael.com, by Dafna Tal")
+![alt text](../assets/images/tours/Tour_C_NAZARETH_2.jpg "Photo credit: www.goisrael.com")
 
 </section>
 <section markdown="1">
